@@ -1,0 +1,20 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# Data files (reproduce via scraping notebooks)
+data/
+*.csv
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
